@@ -5,6 +5,9 @@ Hello Git!
 最后一次修改[master]
 =======
 最后一次修改[hotfix]
-Do you love me?
+>>>>>>> user.name[lesonatguigu]
+
 I love you! yes
-zhouxu 19 岁了
+where to meet tonight?
+tonight atguigu
+
