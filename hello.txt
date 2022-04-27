@@ -6,3 +6,4 @@ Hello Git!
 =======
 最后一次修改[hotfix]
 >>>>>>> user.name[lesonatguigu]
+I love you! yes
